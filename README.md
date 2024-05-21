@@ -8,7 +8,7 @@ Welcome to the Tic Tac Toe game developed in Python using Pygame! This game offe
 
 - **Single Player Mode**: Play against the computer with two difficulty levels.
 - **Multiplayer Mode**: Enjoy the classic Tic Tac Toe experience with another player.
-- **Easy Bot**: A basic opponent that makes calculated moves to try and win.
+- **Easy Bot**: A basic opponent that makes calculated moves and try to win.
 - **Hard Bot**: An advanced opponent that strategically blocks the player and attempts to win.
 - **User-Friendly GUI**: An intuitive and engaging interface developed using Pygame.
 
