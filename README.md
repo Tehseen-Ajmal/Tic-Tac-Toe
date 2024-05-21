@@ -48,6 +48,10 @@ Welcome to the Tic Tac Toe game developed in Python using Pygame! This game offe
 
 ---
 
+![tictactoe-preview-gif](https://github.com/Tehseen-Ajmal/Tic-Tac-Toe/assets/169993548/9d3bd3ac-466b-4827-87fd-88cf4ba8d8e9)
+
+---
+
 Enjoy playing Tic Tac Toe! Happy gaming!
 
 ---
