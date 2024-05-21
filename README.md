@@ -2,7 +2,7 @@
 
 ## Overview
 
-Welcome to the Tic Tac Toe game developed in Python using Pygame! This game offers both single-player and multiplayer experiences with a visually appealing GUI. It features two levels of BOt difficulty: Easy and Hard. While the Easy bot simply tries to win, the Hard bot is designed to block the player and create a more challenging gameplay experience.
+Welcome to the Tic Tac Toe game developed in Python using Pygame! This game offers both single-player and multiplayer experiences with a visually appealing GUI. It features two levels of Bot difficulty: Easy and Hard. While the Easy bot simply tries to win, the Hard bot is designed to block the player and create a more challenging gameplay experience.
 
 ## Features
 
