@@ -33,12 +33,12 @@ Welcome to the Tic Tac Toe game developed in Python using Pygame! This game offe
 ## How to Play
 
 1. **Single Player**:
-   - Select 'Single Player' from the main menu.
+   - Select '1-Player' from the main menu.
    - Choose the difficulty level: Easy or Hard.
    - The game starts with the player making the first move, followed by the bot.
 
 2. **Multiplayer**:
-   - Select 'Multiplayer' from the main menu.
+   - Select '2-Player' from the main menu.
    - Two players take turns to place their marks (X and O) on the board.
    - The first player to get three marks in a row (horizontally, vertically, or diagonally) wins.
 
